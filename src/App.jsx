@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>SJM Universe Knowledge Graph</h1>
+          <p>Coming soon.</p>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
